@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+*.tlog
+*.pdb
+*.idb
+*.log
+*.filters
+*.vcxproj
