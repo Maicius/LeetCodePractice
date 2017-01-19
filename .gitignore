@@ -33,3 +33,6 @@
 *.log
 *.filters
 *.vcxproj
+*.suo
+test/Debug/test.ilk
+test/test.sln
